@@ -1,0 +1,12 @@
+abs abs
+exp exp
+log log
+logit logit
+minus -
+sin sin
+cos cos
+floor trunc
+gammaln loggam
+factln logfact
+sqrt sqrt
+normcdf phi
